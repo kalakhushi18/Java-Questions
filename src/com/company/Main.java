@@ -11,29 +11,9 @@ public class Main {
         System.out.println("the sum is "+p);
         int fibonacci = fibonacci(4);
         System.out.println("fibonacci"+fibonacci);
-	// write your code here
-//        System.out.println();//sout
-//
+
        Scanner sc = new Scanner(System.in);
-//        int a ,b ;
-//        String str ;
-//        str= sc.nextLine();
-//        System.out.print("enter numbers");
-////        a= sc.nextInt();
-////        b= sc.nextInt();
-////        System.out.println(a+b);
-//
-//        System.out.println(str);
-      //  System.out.println("hello world");
-        //first program
-//        System.out.println("enter your name");
-//        String name = sc.next();
-//        System.out.println("hello" + name+"bye ");
-//        char a = 'a' ;
-//        System.out.println(a--);
-//        System.out.println(a);
-//        System.out.println(++a);
-//        System.out.println(a);
+
 
   for(int i = 4 ;i>0 ; i--){
       int j = 0 ;
