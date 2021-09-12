@@ -33,11 +33,6 @@ public class Missing_Duplicate {
 
 
 
-        //swap method 1
-        //2 3 4 4 5
-        //3 2 4 4 5
-0        //4 2 3 4 5
-1  2 3 4 5
         while(s<n)
         {
             if(a[s]!=a[a[s]-1])
@@ -80,7 +75,7 @@ public class Missing_Duplicate {
 
 
 
-        //  2 3 2 1 5
+    
         //array not sorted
 //        for(int i = 1 ;i<=n ;i++)
 //        {
