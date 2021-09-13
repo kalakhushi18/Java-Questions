@@ -75,7 +75,7 @@ public class Missing_Duplicate {
 
 
 
-    
+
         //array not sorted
 //        for(int i = 1 ;i<=n ;i++)
 //        {
