@@ -5,7 +5,7 @@ public class Kadanes_Algo {
 
     public static void main(String args[])
     {
-        int l ,sum=0 ,max =0;
+        int l ,sum=0 ,max =Integer.MIN_VALUE;
         Scanner sc = new Scanner(System.in);
         l = sc.nextInt();
         int a[] = new int[l];
